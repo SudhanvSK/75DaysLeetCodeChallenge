@@ -1,35 +1,16 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int n = nums.size();
-        int p=1,z=0;
-        vector <int> ans;
-        for(int i=0;i<n;i++) 
-        {
-            if(nums[i]!=0) p*=nums[i];
-            else z++;
+        //Submitted again for 75DaysLeetCodeChallenge DAY 7
+        int n=nums.size()-1;
+        vector<int>ans(n+1,1);
+        for(int i=1;i<=n;i++){
+          ans[i]=ans[i-1]*nums[i-1];
         }
-        if(z==1)
-        {
-            for(int i=0;i<n;i++)
-            {
-                if(nums[i]!=0) ans.push_back(0);
-                else ans.push_back(p);
-            }
-        }
-        else if(z>1)
-        {
-            for(int i=0;i<n;i++)
-            {
-                ans.push_back(0);
-            }
-        }
-        else
-        {
-            for(int i=0;i<n;i++)
-            {
-                ans.push_back(p/nums[i]);
-            }
+        int suffix=1;
+        for(int i=n;i>=0;i--){
+            ans[i]=ans[i]*suffix;
+            suffix=suffix*nums[i];
         }
         return ans;
     }
