@@ -517,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SudhanvSK/LeetCode/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SudhanvSK/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
