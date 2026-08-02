@@ -2,18 +2,11 @@ class Solution {
 public:
     int reverse(int n)
     {
-        vector<int> v;
-        bool z = true;
-        while(n!=0)
-        {
-            int d = n%10;
-            if(d!=0) z = false;
-            if(!z) v.push_back(d);
-            n/=10;
-        }
-        int p = v.size()-1;
         int rev = 0;
-        for(int i:v) rev+=i*pow(10,p--);
+        while (n!=0) {
+            rev = rev * 10 + n % 10;
+            n /= 10;
+        }
         return rev;
     }
     int minMirrorPairDistance(vector<int>& nums) {
