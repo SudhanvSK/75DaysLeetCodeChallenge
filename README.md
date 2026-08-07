@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SudhanvSK/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3945-digit-frequency-score](https://github.com/SudhanvSK/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SudhanvSK/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SudhanvSK/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SudhanvSK/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
