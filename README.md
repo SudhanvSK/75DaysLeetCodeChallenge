@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SudhanvSK/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanvSK/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SudhanvSK/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SudhanvSK/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SudhanvSK/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanvSK/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
